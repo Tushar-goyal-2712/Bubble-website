@@ -1,13 +1,13 @@
 
-#  5 Cursor Design
+#  Bubble Website Design
 
-Book Record Website of a library using Javascript and Bootstrap
+Bubble website design with video background
 
 
 
 ## 💻 Demo
 
-[Book Record Website Link](https://book-record-by-tushar.netlify.app/)
+[Book Record Website Link](https://website-page-design-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
