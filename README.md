@@ -15,7 +15,7 @@ Bubble website design with video background
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Book-Record.git
+  git clone https://github.com/Tushar-goyal-2712/Bubble-website.git
 ```
 
 Install node_module dependencies
