@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Book-Record/blob/6d95d980b868618101244c0740f4441951a41d59/Screenshots/design.png)
+![](https://github.com/Tushar-goyal-2712/Bubble-website/blob/60afa7e96b0c907d3fef6c51011b0a332846ceea/Screenshots/design.png)
 
 ## 📍 Deployment
 
